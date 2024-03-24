@@ -44,5 +44,38 @@
 #### The model performance on the hybrid model:
 - Accuracy:
    
-  
+## Some of the references of our model testing and training are as follows:
+
+<div style="display: flex; justify-content: space-around; flex-wrap:wrap">
+    <img src="pic_1.JPG" alt="Image 1" width="500" />
+    <img src="pic2.JPG" alt="Image 2" width="500" />
+    <img src="pic3.JPG" width="500" >
+</div>
+
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap">
+    <!-- Video 1 -->
+    <video width="500" controls>
+        <source src="video1.MP4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    <video width="500" controls>
+        <source src="video2.MP4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    <video width="500" controls>
+        <source src="video3.MP4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    <video width="500" controls>
+        <source src="video4.MP4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    <video width="500" controls>
+        <source src="video5.MP4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+
+</div>
+
+    
 
