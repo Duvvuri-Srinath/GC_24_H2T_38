@@ -1,5 +1,14 @@
 # GC_24_H2T_38
 
+## Steps to run on Tiny Motion Trainer
+1. Go to https://experiments.withgoogle.com/tiny-motion-trainer/view/
+2. Click on "or, load a saved file"
+3. Upload htt.json file
+4. Turn on the switch on the device
+5. Connect the device with bluetooth
+6. Click on "Test your model"
+7. Start testing
+
 ## Hardware configuration and component description
 
 ### Components Used:
@@ -40,9 +49,9 @@
 
 ### Performance Evaluation and metrics
 #### The model performace on Tiny Motion Tracker is:
-- Accuracy:
+- Accuracy: 96%
 #### The model performance on the hybrid model:
-- Accuracy:
+- Accuracy: 60%
    
 ## Some of the references of our model testing and training are as follows:
 
